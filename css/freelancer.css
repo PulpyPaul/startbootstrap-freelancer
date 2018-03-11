@@ -396,3 +396,10 @@ a:focus, a:hover, a:active {
 #bassText {
     text-align: left;
 }
+
+#resumeLink {
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-size: 25px;
+}
