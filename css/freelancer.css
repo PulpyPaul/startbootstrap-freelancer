@@ -419,7 +419,7 @@ a:focus, a:hover, a:active {
     font-size: 25px;
 }
 
-#bassDescription {
+.dialogueDescription {
     text-align: left;
     list-style-type: none;
 }
