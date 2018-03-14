@@ -423,3 +423,8 @@ a:focus, a:hover, a:active {
     text-align: left;
     list-style-type: none;
 }
+
+.sub-head {
+    font-size: 30px;
+    padding: 40px;
+}
